@@ -1,0 +1,82 @@
+kind: DeploymentConfig
+apiVersion: apps.openshift.io/v1
+metadata:
+  name: gpn-logistic
+  namespace: gpn
+  labels:
+    app: gpn-logistic
+spec:
+  selector:
+    app: gpn-logistic
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: gpn-logistic
+    spec:
+      containers:
+        - env:
+            - name: UPLOAD_ARCHIVE_FOLDER
+              value: /tmp/archive/upload
+            - name: RESULT_ARCHIVE_FOLDER
+              value: /tmp/archive/result
+            - name: RESULT_LOG_FOLDER
+              value: /tmp/archive/logs
+          name: gpn-logistic
+          image: gitlab.dellin.ru:5005/alozhkin/gpn_logistic_2.0:prod
+          imagePullPolicy: Always
+          volumeMounts:
+            - mountPath: /tmp/archive
+              name: archive
+          ports:
+            - containerPort: 5000
+              name: werkzeug-server
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+      volumes:
+        - name: archive
+          persistentVolumeClaim:
+            claimName: gpnprodlogistic
+      imagePullSecrets:
+        - name: dellin-registry
+      nodeSelector:
+        node-role.kubernetes.io/bplex: 'true'
+---
+kind: Service
+apiVersion: v1
+metadata:
+  labels:
+    app: gpn-logistic
+  name: gpn-logistic
+  namespace: gpn
+spec:
+  ports:
+  - protocol: TCP
+    port: 5000
+    targetPort: 5000
+  selector:
+    app: gpn-logistic
+  type: ClusterIP
+---
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: gpn-logistic
+  namespace: gpn
+spec:
+  host: gpn-logistic.gpn.app.dev.dvl.tlc.lan
+  to:
+    kind: Service
+    name: gpn-logistic

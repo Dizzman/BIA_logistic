@@ -1,0 +1,12 @@
+        self.basic_constraints = True  # Основные ограничения
+        self.period_balance_constraint = False  # Балансирование потоков в периоде
+        self.truck_amount_constraint = True  # Определение количества машин
+        self.absolute_period_balance = True  # Потребление за неделю < доставки
+        self.truck_amount_restriction_constraint = False  # Ограничение по количеству выездов в смену
+        self.truck_day_balance_constraint = False  # Баланс выездов в течении дня в разных сменах
+        self.depot_fuel_restrictions = False  # Открытия на НБ
+        self.truck_limit = True  # Ограничение по количеству машин
+        self.self_car_min_dep_limits = False  # Ограничение на использование всего собственного парка
+        self.obj_drive_time = True  # Добавить взвешенное время работы БВ в целевую функцию
+        self.obj_death_penalty = True  # Добавить штраф за просушку АЗС в целевую функцию
+        self.obj_balance_penalty = True  # Добавить штраф за нарушение баланса на период в целевую функцию

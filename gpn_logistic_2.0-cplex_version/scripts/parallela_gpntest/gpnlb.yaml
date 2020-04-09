@@ -1,0 +1,105 @@
+kind: DeploymentConfig
+apiVersion: apps.openshift.io/v1
+metadata:
+  name: gpnlb
+  namespace: gpntest
+  labels:
+    app: gpnlb
+spec:
+  selector:
+    app: gpnlb
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: gpnlb
+    spec:
+      containers:
+        - name: gpnlb
+          env:
+          - name: NAMESPACE
+            value: test
+          - name: ARCHIVE_FOLDER
+            value: /tmp/archive
+          - name: WORKDIR_FOLDER
+            value: /tmp/workdir
+          image: gitlab.dellin.ru:5005/alozhkin/gpn_logistic_2.0/parallela/cplex_test:latest
+          imagePullPolicy: Always
+          volumeMounts:
+            - mountPath: /tmp/archive
+              name: archive
+            - mountPath: /var/run/secrets/kubernetes.io/serviceaccount
+              name: default-token-rxmsj
+              readOnly: true
+          ports:
+            - containerPort: 5000
+              name: werkzeug-server
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+      terminationGracePeriodSeconds: 30
+      volumes:
+        - name: archive
+          persistentVolumeClaim:
+            claimName: gpntestlogistic
+        - name: default-token-rxmsj
+          secret:
+            defaultMode: 420
+            secretName: default-token-rxmsj
+      tolerations:
+        - effect: NoSchedule
+          key: node.kubernetes.io/memory-pressure
+          operator: Exists
+      imagePullSecrets:
+        - name: dellin-registry
+      resources:
+        limits:
+          memory: 6Gi
+        requests:
+          memory: 6Gi
+      schedulerName: default-scheduler
+      securityContext:
+        fsGroup: 1000120000
+        seLinuxOptions:
+          level: 's0:c26,c0'
+      serviceAccount: default
+      serviceAccountName: default
+      terminationGracePeriodSeconds: 30
+---
+kind: Service
+apiVersion: v1
+metadata:
+  labels:
+    app: gpnlb
+  name: gpnlb
+  namespace: gpntest
+spec:
+  ports:
+  - protocol: TCP
+    port: 5000
+    targetPort: 5000
+  selector:
+    app: gpnlb
+  type: ClusterIP
+---
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: gpnlb
+  namespace: gpntest
+spec:
+  host: gpnlb.gpntest.gpn-okd-app.bia-tech.ru
+  to:
+    kind: Service
+    name: gpnlb

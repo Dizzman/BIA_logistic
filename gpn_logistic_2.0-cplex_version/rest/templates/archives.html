@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Files</title>
+ </head>
+ <body>
+   <table style="width:100%">
+     <tr>
+       <th>Calculation Started</th>
+       <th>Input archive</th>
+       <th>Output archive</th>
+       <th>Log</th>
+     </tr>
+     {% for calc_started, inp, out, log in calcs %}
+     <tr>
+       <td>{{ calc_started }}</td>
+       <td>
+	 {% if inp[0] %}
+	 <a href={{ inp[0] }}>
+	   {% endif %}
+	   {{ inp[1] }}
+	   {% if inp[0] %}
+	 </a>
+	 {% endif %}
+       </td>
+       <td>
+	 {% if out[0] %}
+	 <a href={{ out[0] }}>
+	   {% endif %}
+	   {{ out[1] }}
+	   {% if out[0] %}
+	   </a>
+	 {% endif %}
+       </td>
+       <td>
+	 {% if log[0] %}
+	 <a href={{ log[0] }}>
+	   {% endif %}
+	   {{ log[1] }}
+	   {% if log[0] %}
+	 </a>
+	 {% endif %}
+       </td>
+     </tr>
+     {% endfor %}
+   </table>
+ </body>
+</html>

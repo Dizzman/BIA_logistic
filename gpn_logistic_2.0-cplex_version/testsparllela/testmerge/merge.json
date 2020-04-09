@@ -1,0 +1,12 @@
+{
+    "run": [
+	{
+	    "type": "merge",
+	    "name": "merge",
+	    "folder_in": "data",
+	    "folder_out": "merge_out",
+	    "subfolders_in":["1package_0_package_0_out"],
+	    "parameters": {}
+	}
+    ]
+}

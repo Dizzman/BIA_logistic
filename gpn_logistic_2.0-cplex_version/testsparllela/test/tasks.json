@@ -1,0 +1,10 @@
+{
+    "run": [
+	{
+	    "name": "single",
+	    "folder_in": "single",
+	    "folder_out": "out",
+	    "parameters": {}
+	}
+    ]
+}

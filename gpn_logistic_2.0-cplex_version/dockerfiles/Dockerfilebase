@@ -1,0 +1,13 @@
+ARG DOCKER_IMAGE=python:3.6.8-stretch
+FROM $DOCKER_IMAGE
+WORKDIR /tmp/
+
+RUN apt-get update && apt-get install -y default-jre
+COPY ./cplex_studio128.linux-x86-64.bin ./
+COPY ./cplex.properties ./
+RUN chmod +x cplex_studio128.linux-x86-64.bin
+RUN ./cplex_studio128.linux-x86-64.bin -plot_vehicle_graph  "cplex.properties"
+RUN cd /opt/ibm/ILOG/CPLEX_Studio128/python && python setup.py install
+RUN rm cplex_studio128.linux-x86-64.bin
+RUN rm cplex.properties
+RUN pip install flask pandas scipy xlsxwriter xlrd

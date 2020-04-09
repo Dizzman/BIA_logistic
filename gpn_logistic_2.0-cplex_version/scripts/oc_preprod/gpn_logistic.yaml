@@ -1,0 +1,109 @@
+kind: DeploymentConfig
+apiVersion: apps.openshift.io/v1
+metadata:
+  name: gpn-logistic
+  namespace: gpnpreprod
+  labels:
+    app: gpn-logistic
+spec:
+  selector:
+    app: gpn-logistic
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: gpn-logistic
+    spec:
+      containers:
+        - env:
+            - name: NAMESPACE
+              value: preprod
+            - name: UPLOAD_ARCHIVE_FOLDER
+              value: /tmp/archive/upload
+            - name: RESULT_ARCHIVE_FOLDER
+              value: /tmp/archive/result
+            - name: RESULT_LOG_FOLDER
+              value: /tmp/archive/logs
+          name: gpn-logistic
+          image: gitlab.dellin.ru:5005/alozhkin/gpn_logistic_2.0:preprod
+          imagePullPolicy: Always
+          volumeMounts:
+            - mountPath: /tmp/archive
+              name: archive
+            - mountPath: /var/run/secrets/kubernetes.io/serviceaccount
+              name: default-token-gd66k
+              readOnly: true
+          ports:
+            - containerPort: 5000
+              name: werkzeug-server
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: 5000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 15
+      volumes:
+        - name: archive
+          persistentVolumeClaim:
+            claimName: gpnpreprodlogistic
+        - name: default-token-gd66k
+          secret:
+            defaultMode: 420
+            secretName: default-token-gd66k
+      tolerations:
+        - effect: NoSchedule
+          key: node.kubernetes.io/memory-pressure
+          operator: Exists
+      imagePullSecrets:
+        - name: dellin-registry
+      nodeSelector:
+        node-role.kubernetes.io/compute: 'true'
+        node-role.kubernetes.io/preprod: 'true'
+      resources:
+        limits:
+          memory: 6Gi
+        requests:
+          memory: 6Gi
+      schedulerName: default-scheduler
+      securityContext:
+        fsGroup: 1000120000
+        seLinuxOptions:
+          level: 's0:c20,c0'
+      serviceAccount: default
+      serviceAccountName: default
+      terminationGracePeriodSeconds: 30
+---
+kind: Service
+apiVersion: v1
+metadata:
+  labels:
+    app: gpn-logistic
+  name: gpn-logistic
+  namespace: gpnpreprod
+spec:
+  ports:
+  - protocol: TCP
+    port: 5000
+    targetPort: 5000
+  selector:
+    app: gpn-logistic
+  type: ClusterIP
+---
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: gpn-logistic
+  namespace: gpnpreprod
+spec:
+  host: gpn-logistic.gpnpreprod.gpn-dvl-okd-app.bia-tech.ru
+  to:
+    kind: Service
+    name: gpn-logistic

@@ -1,0 +1,2955 @@
+{
+  "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+  "shiftTimes" : 1,
+  "date" : "2020-01-15T08:00:00Z",
+  "stocks" : [ {
+    "asuUUID" : "b6ab5254-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "288fa6e4-6639-11e9-8e90-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4488,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b6ab5254-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "52eac766-6639-11e9-8e90-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1585,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b6ab5254-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "78a17f4a-6639-11e9-8e90-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 28536,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b6ab5254-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "a9ef9ca8-6639-11e9-8e90-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21034,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b78dec68-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba62d0c0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14551,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b78dec68-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba64e09a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17063,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b78dec68-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba671874-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15436,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b78dec68-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba695486-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20055,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b78dec68-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba6b82d8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13594,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b795d180-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba6de690-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9789,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b795d180-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba6ff430-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14398,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b795d180-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba71ff8c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 30593,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b795d180-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba741bf0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12006,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b79e10a2-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "b904f474-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7221,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b79e10a2-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "b906cdc6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15446,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b79e10a2-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "b908ac68-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13992,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b79e10a2-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "b90a9d84-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8544,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7a55e8e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba76366a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12044,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7a55e8e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba7853d2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14334,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7a55e8e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba7a3b84-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14854,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7a55e8e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba7c4104-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15127,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba7e645c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13028,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba807184-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14787,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba828082-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14816,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba8498ae-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12370,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba86a31a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4223,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba88b57e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10441,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba8b113e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 47171,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ac9cbc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "ba8d2050-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 27596,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7bae6c8-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baa038fc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5878,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7bae6c8-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baa248ae-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17910,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7bae6c8-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baa420fc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14431,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7bae6c8-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baa608cc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11895,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c18c4e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baa81d2e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14590,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c18c4e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baaa170a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16307,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c18c4e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baac1636-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18346,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c18c4e-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "baae0f36-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14960,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c8694c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bab031d0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10913,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c8694c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bab22724-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 24750,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c8694c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bab41e1c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12910,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7c8694c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bab60b82-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22895,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7d6d81a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb099b4e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11097,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7d6d81a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb0ba2ae-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11243,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7d6d81a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb0dc552-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7946,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7d6d81a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb0fd806-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2868,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7dde448-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb12322c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17601,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7dde448-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb145dfe-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13895,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7dde448-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb167ee0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17035,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7dde448-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb18a1ac-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15364,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7e5893c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb1aeffc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5443,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7e5893c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb1cea28-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9909,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7e5893c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb1ee210-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12195,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7e5893c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb20dec6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16526,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7e5893c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb22fd1e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20067,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ecc260-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb254e34-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6248,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ecc260-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb275b02-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6108,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ecc260-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb29bed8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22699,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ecc260-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb2bdfd8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15908,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7ecc260-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb2df002-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21429,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7f45002-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb302322-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4440,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7f45002-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb3248fa-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22505,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7f45002-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb347ed6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 39624,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7f45002-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb366c96-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10752,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7f45002-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb38671c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 8595,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7fb5af0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb3ab2ba-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6070,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7fb5af0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb3cd784-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16358,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7fb5af0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb3f061c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20083,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7fb5af0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb413978-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18411,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b7fb5af0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb437b66-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22333,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8028a3c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb45f60c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22173,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8028a3c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb4825bc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 24043,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8028a3c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb4a7c7c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26796,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8028a3c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb4cc02c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 23834,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8028a3c-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb4ed452-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19119,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8097374-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb5109f2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12479,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8097374-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb52f38e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13193,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8097374-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb54f634-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8997,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8097374-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb570e42-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18317,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8097374-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb5920ec-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4856,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8107430-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb5b6b54-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12458,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8107430-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb5d51da-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26894,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8107430-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb5f255a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12506,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8107430-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb60fe98-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20833,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b817a548-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb631020-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2383,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b817a548-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb64de8c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14899,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b817a548-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb66dbf6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20471,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b817a548-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb68bc14-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17042,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b817a548-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb6aa704-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21503,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b81e9cf4-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb6c9a28-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3390,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b81e9cf4-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb6e5b24-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 27102,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b81e9cf4-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb701a04-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25488,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b81e9cf4-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb722434-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 25429,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b81e9cf4-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb73ed28-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9021,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b826877a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb75dfca-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3161,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b826877a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb77db36-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8917,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b826877a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb79ccf2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21291,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b826877a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb7b96a4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16937,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b826877a-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb7d7ab4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21319,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b835e3fa-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb893624-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9081,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b835e3fa-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb8afc70-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22298,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b835e3fa-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb8ce382-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15096,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b835e3fa-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb8ec6de-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9919,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b83d83d0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb90fd6e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9409,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b83d83d0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb92f808-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6996,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b83d83d0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb94ead2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1373,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b83d83d0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb96fc3c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 18087,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b83d83d0-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb990afe-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22671,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb9b3766-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4160,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb9d3dc2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5413,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bb9f5f8a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18080,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bba1597a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25198,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bba34d02-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13902,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8452266-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bba56038-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 36948,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b84d1ffc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bba78f3e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32237,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b84d1ffc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bba9ad3c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 36319,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b84d1ffc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbabd526-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 50858,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b84d1ffc-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbade47e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21559,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8554984-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbb04692-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11612,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8554984-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbb26f9e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11159,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8554984-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbb47758-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20147,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "b8554984-3f18-11e9-1d9a-506b8df3c18e",
+    "tankUUID" : "bbb67a1c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14362,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "69cefa02-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b86ea406-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3133,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "69cefa02-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b870efd6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25836,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "69cefa02-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8731086-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1075,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "69cefa02-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b87550ee-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 24474,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3063a76-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8778558-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5853,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3063a76-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8798812-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6345,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3063a76-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b87b4de6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8547,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3063a76-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b87d3494-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 41260,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d30bd4f4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b87f4658-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15841,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d30bd4f4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b88133e6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13535,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d30bd4f4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b883629c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18695,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d30bd4f4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8854b66-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6035,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d30bd4f4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b887438a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13596,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3117d14-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8896552-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10070,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3117d14-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b88b5d30-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9644,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3117d14-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b88d40fa-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16388,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3117d14-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b88f488c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10162,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3170540-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b89176ac-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16611,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3170540-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b89375ba-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 38362,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3170540-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8956d3e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 40283,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3170540-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b89792b2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13908,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d327ce66-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8ab4f46-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2539,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d327ce66-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8ad35ae-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7281,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d327ce66-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8af1fea-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9471,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d327ce66-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8b0f388-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14914,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d327ce66-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8b2c74e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19448,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d32d78a2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8b4dd68-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18075,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d32d78a2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8b6cf38-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15380,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d32d78a2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8b8f038-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13288,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d32d78a2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8bb1bb0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13678,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d32d78a2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8bd1cb2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 29792,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d332da4a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8bf57b6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9855,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d332da4a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8c158a4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7833,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d332da4a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8c35a28-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21511,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d332da4a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8c56958-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21303,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33898e0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8c7a22c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9335,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33898e0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8c9889e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17311,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33898e0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8cb92ec-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20234,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33898e0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8cd6d06-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 23687,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8cfaed6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6831,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8d1a678-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12654,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8d3d5b0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16261,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8d60f42-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13555,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8d8430c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18611,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d33ed3b8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8da5be2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26861,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8dc9218-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3044,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8dea03a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6383,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8e092d2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12637,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8e31f5c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5015,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8e54e4e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9132,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3445cd4-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8e734ac-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 24733,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d349fb62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8e94558-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8947,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d349fb62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8eb40e2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11792,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d349fb62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8ed0cf6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7299,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d349fb62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8eff376-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 23665,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d356bc62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8faaa0a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18101,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d356bc62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8fccfec-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16324,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d356bc62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b8fec3d8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14827,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d356bc62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b900a31a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 16331,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d356bc62-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b902c4ce-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 33805,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d35c7b84-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b90cd752-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12276,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d35c7b84-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b90eedda-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2210,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d35c7b84-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9110f0c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10511,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d35c7b84-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b913262a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12791,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3622066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9154dba-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8273,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3622066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9176e38-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10539,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3622066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9195b12-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26578,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3622066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b91b373e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6040,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d367af9a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b91d6856-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18820,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d367af9a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b91f6b06-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20405,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d367af9a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9219836-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 57869,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d367af9a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9237d4a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22944,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d367af9a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9258004-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25444,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d36d9018-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9278a3e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5233,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d36d9018-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9296aca-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16876,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d36d9018-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b92b739c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12409,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d36d9018-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b92d8dd0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18558,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d373800e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b92f8770-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16636,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d373800e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9316964-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19324,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d373800e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b933a706-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 36953,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d373800e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b935e764-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 23713,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d373800e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9387736-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 30001,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d379845e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b93b6694-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9971,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d379845e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b93e2230-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 29256,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d379845e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b940b612-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 30108,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d379845e-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9438c5c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14742,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d37f7a44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9466404-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15522,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d37f7a44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9491a00-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10625,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d37f7a44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b94c1412-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12979,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d37f7a44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b94eadb2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8713,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3852db8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9526376-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13835,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3852db8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9553b1e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15206,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3852db8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9579daa-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19146,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3852db8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b959c080-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6968,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d38aed52-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b95d1262-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5219,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d38aed52-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b960f5bc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7686,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d38aed52-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9648c86-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8326,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d38aed52-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9671e92-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12261,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d38aed52-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b96948e8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4786,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d390ca6a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba97d75c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8374,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d390ca6a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba99d9b2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8063,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d390ca6a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba9be4e6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4987,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d390ca6a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba9dfc4a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2245,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d396a066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b96e27f0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3725,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d396a066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b970ee22-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26950,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d396a066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9731d64-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32440,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d396a066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b975c9ba-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7368,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d396a066-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b977e7cc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 8147,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d39c6352-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b97a5836-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12327,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d39c6352-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b97cebdc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 29238,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d39c6352-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b97f6326-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11036,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d39c6352-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9828a74-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9951,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a23674-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b984b510-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11448,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a23674-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9873e34-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32570,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a23674-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b989adb8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 24163,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a23674-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b98c397a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14980,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a886d2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b98ef4c6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14925,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a886d2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9930bce-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11469,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a886d2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9962368-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14716,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3a886d2-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b998ce2e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12746,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ae55ee-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b99b8b96-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12695,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ae55ee-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b99dcb40-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25445,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ae55ee-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b99fb4f0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 37852,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ae55ee-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9a21272-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17045,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ae55ee-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9a4832c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 37676,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b40f7a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9a6d7c6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6898,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b40f7a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9a8f3b2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7315,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b40f7a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9ac6966-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19879,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b40f7a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9af1076-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17193,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b40f7a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9b11de4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16552,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b9d2de-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9b3e664-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2864,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b9d2de-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9b5f4e0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14138,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b9d2de-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9b82a58-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 29668,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b9d2de-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9bac70e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 9635,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3b9d2de-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9bcbf00-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13100,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3bf9cc8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9bef676-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 5442,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3bf9cc8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9c0f4e4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20556,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3bf9cc8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9c2d1ba-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 22256,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3bf9cc8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9c4e40a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 43084,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3bf9cc8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9c6e584-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26451,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3c5b338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9c90d32-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10173,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3c5b338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9cb21da-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21300,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3c5b338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9cd0d60-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7551,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3c5b338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9cf062e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12011,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3cbe4b0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9d11d60-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12404,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3cbe4b0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9d32420-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18148,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3cbe4b0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9d53cc4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20097,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3cbe4b0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9d720c0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17019,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d1e126-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9d934e6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7398,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d1e126-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9db193c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32297,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d1e126-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9dceae6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 37737,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d1e126-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9dee86e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 6190,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d7c26c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9e0fc58-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11734,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d7c26c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9e2d258-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25084,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d7c26c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9e4d968-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32754,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3d7c26c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9e6b1a2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21969,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ddc338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9e8bc18-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13655,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ddc338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9ea7c88-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 21809,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ddc338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9ec2376-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26468,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3ddc338-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9ee3242-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16716,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e3a730-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9f07138-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14361,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e3a730-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9f2d874-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13383,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e3a730-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9f4deb2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25485,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e3a730-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9f70674-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 26259,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e9ccf0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9f961b2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12645,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e9ccf0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9fb9176-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1359,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e9ccf0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9fdc91e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 32511,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3e9ccf0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "b9ffd42a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 31837,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3effeae-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba01f0de-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14095,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3effeae-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba03b982-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3187,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3effeae-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba058bb8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14307,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3effeae-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba077bd0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 16921,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3f622c0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba0994e2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14981,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3f622c0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba0b87a2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6766,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3f622c0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba0d6374-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 27672,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3f622c0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba0f3e2e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6283,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3f622c0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba111b7c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10678,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3fc645a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba132fa2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 16161,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3fc645a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba15331a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19595,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3fc645a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba172724-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15582,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d3fc645a-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba18fb26-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15980,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40795dc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba233280-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6996,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40795dc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba2516ea-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19981,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40795dc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba27063a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2500,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40795dc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba2925dc-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1500,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40cf11c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba2b3c1e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4295,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40cf11c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba2d2ce0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 11862,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40cf11c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba2f0fce-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17200,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40cf11c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba312b7e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 10989,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d40cf11c-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba33244c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 24036,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4121e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bab84b72-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17998,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4121e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baba5a02-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15328,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4121e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "babc6928-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6951,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4121e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "babe4b76-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12642,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4172f24-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bac06a0a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3798,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4172f24-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bac26814-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12347,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4172f24-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bac4689e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19767,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4172f24-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bac6693c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3602,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4172f24-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bac844a0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 31957,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d41c97e8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baca6ba4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6696,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d41c97e8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bacc78e0-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2191,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d41c97e8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bace828e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 19237,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d41c97e8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bad0727e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4902,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d41c97e8-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bad26d54-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 27618,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4222b18-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bad4b4d8-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4079,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4222b18-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bad6b562-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4847,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4222b18-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bad8ad40-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13792,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4222b18-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "badaa668-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15833,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4222b18-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "badcccd6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15520,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d427e166-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "badefa56-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2990,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d427e166-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bae0f1c6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 1021,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d427e166-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bae2ee7c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13655,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d427e166-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bae4c058-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14451,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d42da3d0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bae6cc5e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 7672,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d42da3d0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "bae8bd8e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12525,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d42da3d0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baea980c-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 23027,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d42da3d0-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baec9d1e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25604,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4333e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baef0a22-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15965,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4333e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baf12c9e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 3381,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4333e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baf346aa-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14638,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4333e44-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "baf58316-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12250,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d43e58a6-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba355d3e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17978,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d43e58a6-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba377bd2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 29485,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d43e58a6-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba398d1e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 6223,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d43e58a6-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba3b979e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "volume" : 33520,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4497182-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba483080-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 12859,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4497182-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba4a11b6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 14828,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4497182-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba4bf2c4-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 25090,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4497182-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba4da9de-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 27602,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d44f3554-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba4fc4c6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15794,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d44f3554-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba51c3a2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 8025,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d44f3554-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba53cfc6-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 4352,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d44f3554-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba55dbc2-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 2400,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4550dbc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba580f64-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 13854,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4550dbc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba5a2704-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d589a0-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 15527,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4550dbc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba5c408e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 20710,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4550dbc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba5e595a-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 17114,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  }, {
+    "asuUUID" : "d4550dbc-3c35-11e9-2786-506b8df3c18e",
+    "tankUUID" : "ba60620e-3f18-11e9-1d9a-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "volume" : 18244,
+    "timestamp" : "2020-01-15T08:00:00Z",
+    "recorddate" : "2020-01-15T09:06:46Z"
+  } ],
+  "restricts" : [ {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16e4f458-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16dedc80-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d8a40a-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "643f5596-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "643f5596-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_b6d3de66-9668-11e9-f783-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "b6d3de66-9668-11e9-f783-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16e1e5ce-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e1e5ce-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "643f5596-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "643f5596-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16e4f458-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16dbb17c-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 800,
+    "strict_quota" : false,
+    "sku_depot" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16dedc80-3f24-11e9-1d9a-506b8df3c18e_15.01.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-01-14T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_b6d3de66-9668-11e9-f783-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "b6d3de66-9668-11e9-f783-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "b6d3de66-9668-11e9-f783-506b8df3c18e"
+  }, {
+    "ext_id" : "643f5596-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "643f5596-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16dedc80-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "643f5596-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "643f5596-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16e4f458-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16e1e5ce-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e1e5ce-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16e4f458-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d71a54-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d71a54-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16dbb17c-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16dbb17c-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d39726-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d39726-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16d39726-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "644882f6-3c35-11e9-2786-506b8df3c18e_16dedc80-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "644882f6-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16dedc80-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 0,
+    "strict_quota" : false,
+    "sku_depot" : "16e4f458-3f24-11e9-1d9a-506b8df3c18e"
+  }, {
+    "ext_id" : "64510e9e-3c35-11e9-2786-506b8df3c18e_16d8a40a-3f24-11e9-1d9a-506b8df3c18e_29.02.2020 0:00:00",
+    "depotUUID" : "64510e9e-3c35-11e9-2786-506b8df3c18e",
+    "skuUUID" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e",
+    "date" : "2020-02-28T21:00:00Z",
+    "volume" : 9999999,
+    "strict_quota" : false,
+    "sku_depot" : "16d8a40a-3f24-11e9-1d9a-506b8df3c18e"
+  } ],
+  "vehicleTrailer" : [ {
+    "vehicle_id" : "1ca48794-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "234d19f8-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "fa274102-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c9d486c-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "23000078-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "fa2e1b6c-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c93d368-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "231fbc42-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f9eba82c-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c9ae6da-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "2332c760-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "27bec68a-5abf-11e9-4e87-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1ca74f06-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "2354536c-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f195a64e-a89a-11e9-978b-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c915750-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "231951ae-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "21ade7ac-5c55-11e9-4e87-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c8c8644-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "230c89a6-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "c5eeddc8-7896-11e9-ab80-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c9fbae8-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "232617cc-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "fa3ec246-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c82b1fa-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "22f234f2-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "8fdffa90-623a-11e9-8e90-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c87fa8e-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "235b7bf6-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "ccfa3242-a7d1-11e9-fc93-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "0f81a850-e460-11e9-cc87-506b8df3c18e",
+    "trailer_id" : "b4af8a80-e461-11e9-cc87-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f9faa1ce-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1ca228be-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "2345de72-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f148b968-884e-11e9-eb86-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "2f05b138-e45d-11e9-cc87-506b8df3c18e",
+    "trailer_id" : "61b2124a-e460-11e9-cc87-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f9e6be70-3c37-11e9-2786-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  }, {
+    "vehicle_id" : "1c98a082-3c38-11e9-2786-506b8df3c18e",
+    "trailer_id" : "232c644c-3c38-11e9-2786-506b8df3c18e",
+    "uetUUID" : "09df9b7e-3c35-11e9-2786-506b8df3c18e",
+    "driver_id" : "f03578ca-5abf-11e9-4e87-506b8df3c18e",
+    "startPeriod" : "2020-01-15T14:00:00Z",
+    "finishPeriod" : "2020-01-16T01:59:59Z",
+    "region" : "affd2b4e-3c34-11e9-2786-506b8df3c18e",
+    "rolling_shift" : false,
+    "startLocationUUID" : null,
+    "startLocationType" : null,
+    "returnToUet" : null,
+    "loadForNextShift" : false,
+    "asuNotAllowed" : [ ],
+    "depotAllowed" : [ "644882f6-3c35-11e9-2786-506b8df3c18e", "643f5596-3c35-11e9-2786-506b8df3c18e", "64510e9e-3c35-11e9-2786-506b8df3c18e" ]
+  } ]
+}

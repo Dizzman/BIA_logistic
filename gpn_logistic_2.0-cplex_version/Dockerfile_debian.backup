@@ -1,0 +1,11 @@
+FROM gitlab.dellin.ru:5005/alozhkin/gpn_logistic_2.0/python-cplex:latest
+
+WORKDIR /tmp/gpn_logistic_2.0
+
+COPY . .
+
+RUN pip install flask matplotlib
+
+RUN chmod -R 777 /tmp/gpn_logistic_2.0
+
+CMD ["python3.6", "/tmp/gpn_logistic_2.0/rest/rest.py"]

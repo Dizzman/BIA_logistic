@@ -1,0 +1,14 @@
+ARG DOCKER_IMAGE=gitlab.dellin.ru:5005/omoim_developers/python_docker/centos/cplex36
+FROM $DOCKER_IMAGE
+
+WORKDIR /tmp/gpn_logistic_2.0
+
+RUN python3.6 -m pip install flask matplotlib pandas scipy xlsxwriter xlrd requests
+
+COPY . .
+
+RUN chmod -R 777 /tmp/gpn_logistic_2.0
+
+ENV PYTHONPATH "${PYTHONPATH}:/tmp/gpn_logistic_2.0/"
+
+CMD ["python3.6", "/tmp/gpn_logistic_2.0/parallela/minimal.py"]

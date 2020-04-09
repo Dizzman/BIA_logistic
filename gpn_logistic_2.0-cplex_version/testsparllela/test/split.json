@@ -1,0 +1,11 @@
+{
+    "run": [
+	{
+	    "type": "split",
+	    "name": "split",
+	    "folder_in": "data",
+	    "folder_out": "split_out",
+	    "parameters": {}
+	}
+    ]
+}
